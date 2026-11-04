@@ -209,10 +209,3 @@ Some possible extensions include:
 - Adding more specialized branches for complex applications.
 - Combining `RunnableBranch` with `RunnableParallel` and `RunnableLambda`.
 
-## Repository
-
-GitHub: https://github.com/mani787060/langchain-runnable-branch
-
----
-
-**Learning Focus:** LangChain LCEL, RunnableBranch, conditional execution, and modular LLM workflow design.
